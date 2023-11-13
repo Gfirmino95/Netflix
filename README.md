@@ -2,6 +2,10 @@
 
 Este projeto teve como objetivo analisar as séries e filmes disponíveis na Netflix. Para isso, foram utilizados os seguintes dados:
 
+## Link do dashboard público 
+
+ - https://app.powerbi.com/view?r=eyJrIjoiYzNkZGJhOGUtYWFkNy00MDM4LWJkMzEtNjhhY2YyOTY4YzYzIiwidCI6IjY0MTQ5YTRiLTUwNzItNDhhMy05MzFiLTJmY2EzYjZhMThlZiJ9
+
 ## Dados coletados do Kaggle:
 -Título da série ou filme
 -Gênero
